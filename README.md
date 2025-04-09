@@ -19,3 +19,5 @@ In this notebook we seek to answer a few questions:
     Which customers contributed the most refunds?
 
 3: What are some strategies we can utilise to potentially improve sales?
+
+Lets dive into the data!
