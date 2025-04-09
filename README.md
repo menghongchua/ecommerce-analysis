@@ -1,6 +1,6 @@
-# ecomanalysis
+# E-commerce Analysis
 
-
+## Context
 An e-commerce company based in the United Kingdom would like to extract some insights from their customer data for the past year. They would like to find out if there are specific areas they should focus on or improve to increase their revenue. They have hired you to help them figure out!
 
 In this notebook we seek to answer a few questions:
